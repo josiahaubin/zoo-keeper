@@ -21,3 +21,8 @@ brenda.speak("grrrrrrrr")
 carson.eat("Zebras")
 cayla.eat("Young Fawns")
 donald.speak("Hiya Mickie")
+
+let arr = []
+
+arr.push(carson, cayla)
+console.log(arr)
